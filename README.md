@@ -5,7 +5,7 @@ This repository is a work-in-progress collection of curated resources I’m usin
 ## 📚 Current Resources
 
 - **Cheat Sheets**  
-  I highly recommend the collection at [Educative.io Cheatsheets](https://www.educative.io/cheatsheets) for quick references and key concepts.
+  I highly recommend the collection at [Educative.io Cheatsheets](https://www.educative.io/cheatsheets) for quick references and key concepts. 
 
 - **Basic Code Samples & Interview Stages**  
   The [LeetCode Cheatsheet Explore Card](https://leetcode.com/explore/interview/card/cheatsheets/720/resources/4724/) provides a solid overview of fundamental coding patterns and outlines common interview stages.
