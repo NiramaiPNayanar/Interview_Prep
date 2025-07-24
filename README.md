@@ -11,4 +11,4 @@ This repository is a work-in-progress collection of curated resources I’m usin
   The [LeetCode Cheatsheet Explore Card](https://leetcode.com/explore/interview/card/cheatsheets/720/resources/4724/) provides a solid overview of fundamental coding patterns and outlines common interview stages.
 
 - **Interview Practice Tool**  
-  Google's [Interview Warmup](https://www.cloudskillsboost.google/interview_warmup/category) is a great interactive tool to practice answering common interview questions in various domains.
+  Google's [Interview Warmup](https://www.cloudskillsboost.google/interview_warmup/category) is a great interactive tool to practice answering common interview questions in various domains. 
